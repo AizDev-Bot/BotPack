@@ -8,12 +8,12 @@ module.exports = async ({ api }) => {
 
   const config = {
     autoRestart: {
-      status: false,
+      status: true,
       time: 40,
       note: 'To avoid problems, enable periodic bot restarts',
     },
     acceptPending: {
-      status: false,
+      status: true,
       time: 30,
       note: 'Approve waiting messages after a certain time',
     },
