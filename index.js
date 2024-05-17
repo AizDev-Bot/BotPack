@@ -129,9 +129,9 @@ global.loading = require("./utils/log.js");
 app.get("/", function (req, res) {
   res.sendFile(path.join(__dirname, "/includes/cover/index.html"));
 });
-app.listen(1000, () => {
+app.listen(10000, () => {
   global.loading.log(
-    `Bot is running on port: 1000`,
+    `Bot is running on port: 10000`,
     "SYSTEM",
   );
 });
