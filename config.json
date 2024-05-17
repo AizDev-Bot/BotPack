@@ -4,7 +4,7 @@
   "useEnvForCredentials": false,
   "envGuide": "When useEnvForCredentials enabled, it will use the process.env key provided for email and password, which helps hide your credentials, you can find env in render's environment tab, you can also find it in replit secrets.",
   "DeveloperMode": true,
-  "autoCreateDB": true,
+  "autoCreateDB": false,
   "allowInbox": false,
   "autoClean": true,
   "adminOnly": false,
@@ -21,14 +21,14 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Kiryu",
+  "BOTNAME": "Shizue",
   "PREFIX": "",
   "ADMINBOT": [
     "100064714842032",
     "OTHER_FB_UID"
   ],
   "DESIGN": {
-    "Title": "BotPack",
+    "Title": "Shizue",
     "Theme": "Blue",
     "Admin": "Shizen",
     "Setup": {
