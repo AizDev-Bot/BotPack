@@ -21,8 +21,8 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Shizue",
-  "PREFIX": "",
+  "BOTNAME": "Goji",
+  "PREFIX": "!",
   "ADMINBOT": [
     "100064714842032",
     "OTHER_FB_UID"
